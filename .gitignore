@@ -1,0 +1,10 @@
+﻿.vs/
+bin/
+obj/
+packages/
+Properties/
+token.txt
+App.config
+packages.config
+tarsbot.csproj
+tarsbot.sln
